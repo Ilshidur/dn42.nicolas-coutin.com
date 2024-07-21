@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ilshidur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dn42.nicolas-coutin.com
+  * I am ilshidur (https://keybase.io/ilshidur) on keybase.
+  * I have a public key with fingerprint 603D D6F1 CFCC 7BDE 27BE  5195 8B90 99F4 B390 0E67
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed125f205281e128e42f02cd13dfff158637b97a11c5071557a351a7d0cafa9f0a",
+      "fingerprint": "603dd6f1cfcc7bde27be51958b9099f4b3900e67",
+      "host": "keybase.io",
+      "key_id": "8b9099f4b3900e67",
+      "kid": "01014a172db86b416a5c5fab6796e35a3385d9911165341cf0982f61f329f22a7fac0a",
+      "uid": "68e5cbd2d94fdfb854f4973485430319",
+      "username": "ilshidur"
+    },
+    "service": {
+      "hostname": "dn42.nicolas-coutin.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1721603564,
+  "expire_in": 157680000,
+  "prev": "8cd221816795f42557a116b1b34f455f7f4ddf5a371f6a08713f6e428d4cebbb",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN5AnicbVJrUFVVGOWlJQFiqFHcyo5ozvDw7PM+kE0YM8JEicRQE8LtPPaGM8A5
+t/tAERDiUlzCRiplCikrvTIlBQQkZiYwlRM19JAYKBVCUiAHSSBLNNqH0X/tP3vv
+b9a39lprf18G+/sE+tbUvjXbVhuS4/tt9yGXD3p7/+ViQjbUIiKumMiDixvMV6HD
+ac3TVCKOIAFFQhVQLKJIlhIABJQAGQqRlKICWkUIAVbgaF4WeQkAhSV5wLK8RLNA
+4lVSkZAkIlIiogmk6TnQbrNruhPTciStqhwCClIUXlYhxcuQBSIryCIpioiRaZEk
+IcfjxlzDYXZgcbLkgLGagWv4Yl2U9z/427pJwEiAp1RZ4GQGcBKrsEiSOV7kIM1K
+NC2wqigCADiWZrAOUhQoxAFEUyKiKIlHkrKo27VIxwmQVWSVUkUGqUgWWAYxIk8z
++ECTNBBNoAPadakAYrSW78jVVJedKI0mcLVQU6AZrOnkFkLVGSpW1xQjX3LEKIbL
+qemxilGAaWx2w2ngOgblOp02R5xJ4iyymV07oGy9xWeVNV3FkeKOQmh3aIZOxAGM
+VJya+QA2DnDGLMdEE3CnTbNDq2YiWJ4TSLzMd2ChGaCiUhQQAM6FRQxl/h2ORAYy
+jR2yLOIRo6oI58UDxEmkwAMacXgABJVRoCzLhOnwBd0g4mgW65RyMKdDy9Elp8sO
+idKe7u0BPr6BPkuX+Jmz5hO4LPT2BErPL19QqiIa2wnXA731r6dkp7ja2lJvHgj7
+fMpbH7AuOFg//I1R++vZ1NeGDm+1XMv0uPYeT382mWSuj9yzvfPNK3fGH6otfG5r
+ReL7p/tLcta0dD5q2aEfsX5WWJ78YIynJDLiaskZb/mmnwaimo6ilk2feG78dSC0
+vrf9Mff8ZMS5k2Mz27o7pMj+vJEXP718vuArf6rqQuuVP9KYhul298bJL/onpove
+Scxa98r1Xyb6y17aeLV2d2XC+rFcSxX5oUOa87OVcgteT2Wu39yflU9m/D5fPeM3
+Hrlv/L4AOAzyw93Tgq38kZ6v61pXHjuY4ekaCJtb45S8+wfDw2YHL+WXd1pu3sVd
+urY7RqqoqZw8NXOxuLp9eGnLkL977ERkY1fQR3v6hjumbKsVrnh56pEtzsEm64au
+nX4DFc1ykFwqJKT7bvh+7UjJ2Xro7FqSKJKtk1Fpvz2R/Wr630N7ykLPt+2LLh26
+OwnOHZurqvxxNGtYe6qvpr6vjO3uG4j/OCBLbhhfqP7gZzL+/uQfZpUCP3fUxZd3
+3fFdryfp9OMPFaSNX7DUlXTszWt7JtFAHetTPKtPnrGsXNXUtMKdUHIiJrxSimxu
+C9Hd3IqWVaX/PNzYnNDfs+zeiDzXhLfgjcyDN4KMhsbkqaO7vMdD50/9uy1j7eb3
+XNnv1mWOPt1ZbyfOjYqbQlpDwpL6t/wHymLNUA==
+=TCwy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ilshidur
+
+==================================================================
