@@ -6,15 +6,21 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>AS4242421769</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="AS4242421769" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          PORYGON network.
         </p>
+        <p>Nodes :</p>
+        <ul>
+          <li><code>dn42-fr1.nicolas-coutin.com</code></li>
+        </ul>
+        <p>Contact me on keybase for peering requests : <a href="https://keybase.io/ilshidur">ilshidur</a></p>
+        <p>This site is a work in progress...</p>
       </main>
 
       <Footer />
