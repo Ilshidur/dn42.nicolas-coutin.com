@@ -1,13 +1,18 @@
 .footer {
   width: 100%;
   height: 100px;
+  max-width: 1280px;
   border-top: 1px solid #eaeaea;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+.footer > * {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
 .logo {
   height: 3em;
-  margin: 5px;
 }

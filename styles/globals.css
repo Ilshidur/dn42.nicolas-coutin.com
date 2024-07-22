@@ -11,6 +11,10 @@ body {
   box-sizing: border-box;
 }
 
+ul > li {
+  margin-bottom: 10px;
+}
+
 main {
   padding: 5rem 0;
   flex: 1;
