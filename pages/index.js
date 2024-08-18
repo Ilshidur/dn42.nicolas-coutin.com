@@ -23,7 +23,7 @@ export default function Home() {
         </ul>
         <h2>Nodes :</h2>
         <ul>
-          <li><code>dn42-fr-ren1.nicolas-coutin.com</code> (Rennes, France)</li>
+          <li><code>dn42-fr-ren1.nicolas-coutin.com</code> (Rennes, France) - 600/600 mbps</li>
           <li>More to come...</li>
         </ul>
         <h2>Services</h2>
@@ -34,7 +34,7 @@ export default function Home() {
         <h2>Routing policy</h2>
         <p>(Coming soon.)</p>
         <h2>Peering requests</h2>
-        <p>Multiprotocol BGP is preferred. Please make sure to implement ROA checking.</p>
+        <p>Wireguard and MP-BGP are preferred. Please make sure to implement ROA checking. Your node must have reasonable tunnel bandwidth and ping.</p>
         <p>Contact me on keybase : <a href="https://keybase.io/ilshidur">ilshidur</a> — <a href="https://git.dn42.dev/dn42/registry/src/branch/master/data/person/ILSHIDUR-DN42">(find my infos on the dn42 repo)</a></p>
       </main>
 
