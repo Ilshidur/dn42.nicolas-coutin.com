@@ -29,6 +29,7 @@ export default function Home() {
         <h2>Services</h2>
         <ul>
           <li><a href="https://ping.ilshidur.dn42">https://ping.ilshidur.dn42</a> (work in progress...)</li>
+          <li><a href="https://random.ilshidur.dn42">https://random.ilshidur.dn42</a> (work in progress...)</li>
           <li>More to come...</li>
         </ul>
         <h2>Routing policy</h2>
