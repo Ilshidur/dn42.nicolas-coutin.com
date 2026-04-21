@@ -23,7 +23,7 @@ export default function Home() {
         </ul>
         <h2>Nodes :</h2>
         <ul>
-          <li><code>dn42-fr-ren1.nicolas-coutin.com</code> (Rennes, France) - 600/600 mbps</li>
+          <li><code>dn42-fr-ren1.nicolas-coutin.com</code> (Rennes, France) - 1000/1000 Mbps</li>
           <li>More to come...</li>
         </ul>
         <h2>Services</h2>
